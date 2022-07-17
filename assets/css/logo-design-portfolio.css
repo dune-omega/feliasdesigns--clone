@@ -1,0 +1,41 @@
+.text__center {
+  text-align: center;
+}
+
+#green_header {
+  color: #a1c802;
+}
+
+.w-nav-list.level_2 > li:hover {
+  background-color: #d6ff2f;
+}
+
+.w-nav-anchor.level_2:hover {
+  color: #0808a8;
+}
+
+.l-header {
+  position: relative;
+  z-index: 111;
+  width: 100%;
+}
+
+.l-subheader.width_full {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.w-header-show {
+  display: none;
+}
+
+.l-header.pos_fixed:not(.notransition) .l-subheader {
+  transition-property: transform, background, box-shadow, line-height, height;
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0.78, 0.13, 0.15, 0.86);
+}
+
+.l-header.pos_fixed {
+  position: fixed;
+  left: 0;
+}
