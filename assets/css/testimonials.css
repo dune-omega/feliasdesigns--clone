@@ -1,0 +1,12 @@
+#testimonials {
+  text-align: center;
+}
+
+#name {
+  text-align: right;
+}
+
+#ult {
+  clear: both;
+  display: block;
+}

@@ -1,0 +1,11 @@
+.text__center {
+  text-align: center;
+}
+
+#green_header {
+  color: #a1c802;
+}
+
+#page-content {
+  margin-block-start: 11rem;
+}

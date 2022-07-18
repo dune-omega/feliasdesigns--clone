@@ -1,0 +1,28 @@
+.tp-caption a {
+  color: #ff7302;
+  text-shadow: none;
+  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+  color: #ffa902;
+}
+
+#title__container {
+  padding-block-start: 0;
+}
+
+.us_custom_4a593b65 {
+  animation-name: aft !important;
+}
+
+.vc_col-sm-4.wpb_column.vc_column_container > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
